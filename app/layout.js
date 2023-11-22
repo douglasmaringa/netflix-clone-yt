@@ -9,7 +9,7 @@ const poppins = Poppins({
 
 export const metadata = {
   title: 'Seffa Flix',
-  description: 'Seffa Flix is a streaming service that offers a wide variety of award-winning, movies, anime, documentaries, and more on thousands of internet-connected devices.',
+  description: 'Seffa Flix is a streaming service that offers a wide variety of award-winning, movies and more on thousands of internet-connected devices.',
   icons:{
     icon: '/favicon.ico',
   }
